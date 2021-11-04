@@ -127,7 +127,7 @@ img {
 }
 
 .about {
-  background: #d59647 url(images/Black_marble.jpg);
+  background: #d59647 url(https://github.com/HikariNoRyu/Focal-Point/blob/main/Images/Black_marble.jpg?raw=true);
   padding:50px;
   display: grid;
   grid-template-columns: 400px 1fr;
