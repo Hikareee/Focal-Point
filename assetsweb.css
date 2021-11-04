@@ -28,7 +28,7 @@ img {
 .Pizzadang{
   grid-area: Pizzadang;
   min-height: 400px;
-  background: white url(https://github.com/HikariNoRyu/Focal-Point/blob/main/Images/PadangPizza.jpg?raw=true);
+  background: white url(Images/PadangPizza.jpg);
   background-size: cover;
   background-position: bottom right;
   padding: 50px;
@@ -127,7 +127,7 @@ img {
 }
 
 .about {
-  background: #d59647 url(https://github.com/HikariNoRyu/Focal-Point/blob/main/Images/Black_marble.jpg?raw=true);
+  background: #d59647 url(images/Black_marble.jpg);
   padding:50px;
   display: grid;
   grid-template-columns: 400px 1fr;
